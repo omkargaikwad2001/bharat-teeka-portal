@@ -1,0 +1,46 @@
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / Editor files
+# ===============================
+.idea/
+.vscode/
+*.iml
+
+# ===============================
+# Backend (Spring Boot / Maven)
+# ===============================
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# ===============================
+# Frontend (React / Vite / CRA)
+# ===============================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Environment files
+# ===============================
+.env
+.env.local
+.env.development
+.env.production
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.swp
