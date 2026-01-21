@@ -81,7 +81,11 @@ export default function Register() {
             </form>
 
             <p className="mt-3 text-center">
+<<<<<<< HEAD
               Already registered? <Link to="/">Login</Link>
+=======
+              Already registered? <Link to="/login">Login</Link>
+>>>>>>> 879901f0fb2a324c391f2eea54c82debe7f0351d
             </p>
 
           </div>

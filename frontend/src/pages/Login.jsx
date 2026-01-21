@@ -20,7 +20,9 @@ export default function Login() {
           <div className="col-md-6 p-4 d-flex flex-column justify-content-center">
             <h3 className="text-center mb-3">Welcome Back</h3>
 
-            <form>
+
+            <form  >
+
 
               <div className="mb-3">
                 <label className="form-label">Select Role</label>
@@ -28,7 +30,11 @@ export default function Login() {
                   <option value="">Choose role</option>
                   <option value="admin">Admin</option>
                   <option value="patient">Patient</option>
+
                   <option value="government">Government of India</option>
+
+                  <option value="government">Hospital</option>
+
                 </select>
               </div>
 
