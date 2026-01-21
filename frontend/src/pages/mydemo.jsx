@@ -1,7 +1,7 @@
 export default function demo(){
     return(
         <>
-            <h1>Welcome to Demo </h1>   
+            <h1> welcome to My Demo </h1>   
         </>
     );
 }
