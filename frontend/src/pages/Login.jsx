@@ -35,6 +35,9 @@ export default function Login() {
 
                   <option value="government">Hospital</option>
 
+                  <option value="government">government</option>
+
+                  <option value="government">Omkar changes</option>
                 </select>
               </div>
 
