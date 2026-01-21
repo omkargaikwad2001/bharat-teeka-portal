@@ -29,6 +29,7 @@ export default function Login() {
                   <option value="admin">Admin</option>
                   <option value="patient">Patient</option>
                   <option value="government">Hospital</option>
+                  <option value="government">government</option>
                 </select>
               </div>
 
